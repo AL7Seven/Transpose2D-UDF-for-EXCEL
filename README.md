@@ -20,5 +20,7 @@ Of course, both functions can be used in cells or in VBA, the difference is that
 While keeping the advantages of Transpose2D, you can ask to keep the same characteristics/numbering behaviour of transpositions as the Transpose functions of Excel for this put the option LikeExcel = True (-1). 
 
 Additional Features:
+
 PARTIAL TRANSPOSITION of the table indicating the beginning and end of each dimension. 
+
 DEFINE INDEPENDENTLY THE BASIS OF EACH TABLE DIMENSIONS.
