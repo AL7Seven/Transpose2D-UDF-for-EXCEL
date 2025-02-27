@@ -1,3 +1,5 @@
+# [Go to the Wiki menu for more details](https://github.com/AL7Seven/Transpose2D-UDF-for-EXCEL/wiki#why-al7_transpose2d)
+
 # Transpose2D UDF for EXCEL (or others)
 
 ✅ Processing large data sets : Faster and without limitation.
@@ -26,5 +28,3 @@ PARTIAL TRANSPOSITION of the table indicating the beginning and end of each dime
 DEFINE INDEPENDENTLY THE BASIS OF EACH TABLE DIMENSIONS.
 
 ***[You may download the full package here or above:](https://github.com/AL7Seven/Transpose2D/releases/download/untagged-2581487c289173a64814/AL7_Transpose2D.V2.1.GITHUB.Package.zip)***
-
-# [Go to the Wiki menu for more details](https://github.com/AL7Seven/Transpose2D-UDF-for-EXCEL/wiki#why-al7_transpose2d)
