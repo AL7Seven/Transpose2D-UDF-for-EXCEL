@@ -27,4 +27,4 @@ PARTIAL TRANSPOSITION of the table indicating the beginning and end of each dime
 
 DEFINE INDEPENDENTLY THE BASIS OF EACH TABLE DIMENSIONS.
 
-***[You may download the full package here or above:](https://github.com/AL7Seven/Transpose2D/releases/download/untagged-2581487c289173a64814/AL7_Transpose2D.V2.1.GITHUB.Package.zip)***
+# [You may download the full last version here](https://github.com/AL7Seven/Transpose2D-UDF-for-EXCEL/releases/tag/V2.10)
